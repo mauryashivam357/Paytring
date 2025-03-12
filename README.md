@@ -1,6 +1,6 @@
 # API Caller & Background Worker App
 
-This Android application allows users to **make API calls** (GET/POST) using a simple UI and schedules a background task every 2 minutes using **WorkManager**.
+This Android application allows users to **make API calls** (GET/POST) using a simple UI and schedules a background task every 5 minutes using **WorkManager**.
 
 ---
 
